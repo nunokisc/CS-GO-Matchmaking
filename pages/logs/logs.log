@@ -1,0 +1,72 @@
+2017-05-15T18:58:01+00:00 [main] Lobby criado!
+2017-05-15T19:03:14+00:00 [createLobby] Lobby criado 1234por 3
+2017-05-15T19:03:37+00:00 [createLobby] Lobby 1234 criado por 3
+2017-05-15T19:04:15+00:00 [createLobby_proc.php] Lobby 1234 criado por uid: 3
+2017-05-15T19:09:57+00:00 [createLobby_proc.php] Nome invalido de lobby por: 3
+2017-05-15T19:18:32+00:00 INFO [createLobby_proc.php] Lobby 1234 criado por uid: 3
+2017-05-15T19:18:56+00:00 WARN [createLobby_proc.php] Nome invalido de lobby por uid: 3
+2017-05-15T19:31:40+00:00 INFO [createLobby_proc.php] Lobby 1234 id: 95 criado por uid: 3
+2017-05-15T20:04:30+00:00 ERROR [eloUpdate_proc.php] Variavel POST['lobbyId'] nao definida por uid: 3
+2017-06-03T23:11:19+02:00 ERROR [createLobby_proc.php] Variavel SESSION['uId'] nao definida.
+2017-06-03T23:11:19+02:00 ERROR [createLobby_proc.php] Variavel POST['name'] nao definida
+2017-06-03T23:11:27+02:00 INFO [createLobby_proc.php] Lobby asd123 id: 83 criado por uid: 3
+2017-06-04T14:42:35+02:00 ERROR [createLobby_proc.php] Variavel SESSION['uId'] nao definida.
+2017-06-04T14:42:35+02:00 ERROR [createLobby_proc.php] Variavel POST['name'] nao definida
+2017-06-04T14:42:45+02:00 INFO [createLobby_proc.php] Lobby asd123 id: 84 criado por uid: 3
+2017-06-04T15:23:21+02:00 INFO [createLobby_proc.php] Lobby asd1234 id: 85 criado por uid: 1
+2017-06-04T15:47:31+02:00 INFO [createLobby_proc.php] Lobby asd1234 id: 86 criado por uid: 1
+2017-06-04T17:07:55+02:00 INFO [createLobby_proc.php] Lobby asd123 id: 87 criado por uid: 3
+2017-06-04T17:28:10+02:00 INFO [createLobby_proc.php] Lobby asd123 id: 88 criado por uid: 3
+2017-06-15T06:25:19+02:00 INFO [createLobby_proc.php] Lobby asd id: 138 criado por uid: 3
+2017-06-15T06:39:07+02:00 INFO [createLobby_proc.php] Lobby asd id: 139 criado por uid: 3
+2017-06-15T20:41:18+02:00 INFO [createLobby_proc.php] Lobby asd id: 140 criado por uid: 11
+2017-06-16T01:10:20+02:00 WARN [createLobby_proc.php] Nome invalido de lobby por uid: 11
+2017-06-21T17:15:09+02:00 INFO [createLobby_proc.php] Lobby asd id: 141 criado por uid: 3
+2017-06-22T23:41:16+02:00 WARN [createLobby_proc.php] Nome invalido de lobby por uid: 11
+2017-06-26T14:50:20+02:00 INFO [createLobby_proc.php] Lobby asd id: 142 criado por uid: 3
+2017-06-26T18:33:59+02:00 WARN [createLobby_proc.php] Nome invalido de lobby por uid: 9
+2017-06-26T18:34:24+02:00 INFO [createLobby_proc.php] Lobby asd id: 143 criado por uid: 2
+2017-06-28T16:25:46+02:00 INFO [createLobby_proc.php] Lobby teste id: 144 criado por uid: 11
+2017-07-10T17:32:00+02:00 INFO [createLobby_proc.php] Lobby 123 id: 145 criado por uid: 3
+2017-07-31T19:04:22+02:00 INFO [createLobby_proc.php] Lobby 1234 id: 146 criado por uid: 3
+2017-07-31T19:05:14+02:00 INFO [createLobby_proc.php] Lobby asd id: 147 criado por uid: 3
+2017-07-31T22:35:45+02:00 ERROR [createLobby_proc.php] Variavel POST['name'] nao definida por uid: 3
+2017-07-31T22:35:48+02:00 ERROR [createLobby_proc.php] Variavel POST['name'] nao definida por uid: 11
+2017-07-31T22:36:15+02:00 ERROR [createLobby_proc.php] Variavel POST['name'] nao definida por uid: 3
+2017-07-31T22:37:17+02:00 ERROR [createLobby_proc.php] Variavel POST['name'] nao definida por uid: 3
+2017-07-31T22:37:29+02:00 ERROR [createLobby_proc.php] Variavel POST['name'] nao definida por uid: 3
+2017-07-31T22:38:12+02:00 ERROR [createLobby_proc.php] Variavel POST['name'] nao definida por uid: 3
+2017-07-31T22:38:46+02:00 ERROR [createLobby_proc.php] Variavel POST['name'] nao definida por uid: 3
+2017-07-31T22:38:56+02:00 ERROR [createLobby_proc.php] Variavel POST['name'] nao definida por uid: 11
+2017-07-31T22:39:13+02:00 ERROR [createLobby_proc.php] Variavel POST['name'] nao definida por uid: 3
+2017-07-31T22:39:22+02:00 INFO [createLobby_proc.php] Lobby a87ff679a2f3e71d9181a67b7542122c id: 148 criado por uid: 11
+2017-07-31T22:39:26+02:00 INFO [createLobby_proc.php] Lobby 3c59dc048e8850243be8079a5c74d079 id: 149 criado por uid: 3
+2017-07-31T22:39:47+02:00 INFO [createLobby_proc.php] uid: 3 tentou criar lobby com nome j· existente.
+2017-07-31T22:39:51+02:00 INFO [createLobby_proc.php] Lobby aab3238922bcc25a6f606eb525ffdc56 id: 150 criado por uid: 3
+2017-07-31T22:40:44+02:00 INFO [createLobby_proc.php] Lobby «Mó∞Æ%~D™ù[≠È{Ø id: 151 criado por uid: 3
+2017-07-31T22:40:54+02:00 INFO [createLobby_proc.php] Lobby ≈‰¡$°µ‰π¬Ø9 id: 152 criado por uid: 11
+2017-07-31T22:41:36+02:00 INFO [createLobby_proc.php] Lobby <Y‹éàP$;Ëö\t–y id: 153 criado por uid: 3
+2017-07-31T22:42:14+02:00 INFO [createLobby_proc.php] Lobby 08fe2621d8e716b02ec0da35256a998d id: 154 criado por uid: 3
+2017-07-31T22:42:23+02:00 INFO [createLobby_proc.php] Lobby 84d2004bf28a2095230e8e14993d398d id: 155 criado por uid: 11
+2017-07-31T22:42:52+02:00 INFO [createLobby_proc.php] Lobby 34173cb38f07f89ddbebc2ac9128303f id: 156 criado por uid: 3
+2017-07-31T22:43:03+02:00 INFO [createLobby_proc.php] Lobby 13fe9d84310e77f13a6d184dbf1232f3 id: 157 criado por uid: 3
+2017-07-31T22:52:16+02:00 INFO [sort_proc.php] Lobbyid: 155 equilibrado com sucesso por uid: 11
+2017-07-31T22:57:48+02:00 INFO [createLobby_proc.php] Lobby f3ac63c91272f19ce97c7397825cc15f id: 158 criado por uid: 3
+2017-07-31T22:58:45+02:00 INFO [createLobby_proc.php] Lobby 06409663226af2f3114485aa4e0a23b4 id: 159 criado por uid: 11
+2017-07-31T22:59:46+02:00 INFO [sort_proc.php] Lobbyid: 159 equilibrado com sucesso por uid: 11
+2017-07-31T23:00:42+02:00 INFO [elo_proc.php] Tabela de elos do lobbyid: 159 criada com sucesso!
+2017-07-31T23:00:42+02:00 WARN [elo_proc.php] Tabela de elos do lobbyid: 159 j√° criada por: 11
+2017-07-31T23:00:48+02:00 WARN [elo_proc.php] Tabela de elos do lobbyid: 159 j√° criada por: 11
+2017-07-31T23:00:51+02:00 WARN [elo_proc.php] Tabela de elos do lobbyid: 159 j√° criada por: 11
+2017-07-31T23:00:51+02:00 WARN [elo_proc.php] Tabela de elos do lobbyid: 159 j√° criada por: 11
+2017-08-01T02:18:02+02:00 INFO [sort_proc.php] Lobbyid: 159 equilibrado com sucesso por uid: 3
+2017-08-01T04:38:08+02:00 INFO [createLobby_proc.php] Lobby 7bb060764a818184ebb1cc0d43d382aa id: 160 criado por uid: 3
+2017-08-01T04:45:06+02:00 INFO [createLobby_proc.php] Lobby 471c75ee6643a10934502bdafee198fb id: 161 criado por uid: 3
+2017-08-01T05:03:41+02:00 INFO [createLobby_proc.php] Lobby 3953630da28e5181cffca1278517e3cf id: 162 criado por uid: 3
+2017-08-01T05:42:23+02:00 INFO [createLobby_proc.php] Lobby 9dfcd5e558dfa04aaf37f137a1d9d3e5 id: 165 criado por uid: 3
+2017-09-07T09:34:31+02:00 INFO [createLobby_proc.php] Lobby 66f041e16a60928b05a7e228a89c3799 id: 82 criado por uid: 3
+2017-09-07T09:36:08+02:00 INFO [createLobby_proc.php] Lobby f0bbac6fa079f1e00b2c14c1d3c6ccf0 id: 83 criado por uid: 3
+2017-09-14T04:33:43+02:00 INFO [createLobby_proc.php] Lobby 85ae750ad1dbdc5c2703bcfe97e77152 id: 82 criado por uid: 3
+2017-09-27T19:31:14+02:00 INFO [createLobby_proc.php] Lobby 5dec707028b05bcbd3a1db5640f842c5 id: 82 criado por uid: 1
+2017-09-29T01:49:08+02:00 INFO [createLobby_proc.php] Lobby 502e4a16930e414107ee22b6198c578f id: 83 criado por uid: 1
+2017-10-11T05:49:02+02:00 INFO [createLobby_proc.php] Lobby 084b6fbb10729ed4da8c3d3f5a3ae7c9 id: 82 criado por uid: 1
